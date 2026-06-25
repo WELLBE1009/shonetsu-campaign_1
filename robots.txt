@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wellbe1009.github.io/shonetsu-campaign_1/sitemap.xml
